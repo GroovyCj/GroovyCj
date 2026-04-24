@@ -1,4 +1,4 @@
-## Cory Hairston
+## Cory H.
 
 Developer focused on building data-driven systems and internal tools.
 
